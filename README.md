@@ -3,7 +3,7 @@
 ----
 To be published as a conference paper at ACC 2024: [Optimal Control for Antivirus Routing in Epidemiological-Based Heterogeneous Computer Network Clusters](assets/preprint.pdf)
 
-### Implemention
+### Implementation
 Single Cluster Antivirus Routing.
 ![Single Cluster](assets/singlecluster_updated.png)
 
