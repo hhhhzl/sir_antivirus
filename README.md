@@ -53,6 +53,7 @@ Benchmark for Three Heterogeneous Clusters (T = 50, lr = 10e-7):
 | w (Scenario I)         | \[1, 1, 1]          |
 | w (Scenario II)        | \[1, 2, 3]          |
 
+----
 ### Experiment Results
 Run Single Cluster Scenario
 ```
@@ -66,5 +67,6 @@ python src/cluster_bfgs.py
 
 ![Experiment Results](assets/experiment_results.png)
 
+----
 ### Citation
     To be Updated ..
