@@ -1,3 +1,5 @@
 .ipynb_checkpoints
 /figures
 /figures_r
+.idea
+.DS_Store
