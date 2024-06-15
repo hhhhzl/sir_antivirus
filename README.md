@@ -36,7 +36,7 @@ Benchmark for Single Cluster (T = 100):
 
 Benchmark for Three Heterogeneous Clusters (T = 50, lr = 10e-7):
 - Scenario I: Different beta, everything else stay the same.
-- Scenario II: different weights, everything else stay the same/
+- Scenario II: different weights, everything else stay the same.
 
 | Parameters             | Values              |
 |------------------------|---------------------|
