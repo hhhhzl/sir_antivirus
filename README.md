@@ -8,7 +8,7 @@ Single Cluster Antivirus Routing.
 ![Single Cluster](assets/singlecluster_updated.png)
 
 Heterogeneous Clusters Antivirus Routing.
-![Heterogeneous Clusters]
+![Heterogeneous Clusters](assets/multicluster_large.png)
 
 ----
 
