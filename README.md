@@ -1,7 +1,7 @@
 ## Optimal Control for Antivirus Routing in Epidemiological-Based Heterogeneous Computer Network Clusters
 
 ----
-To be published as a conference paper at ACC 2024: [Optimal Control for Antivirus Routing in Epidemiological-Based Heterogeneous Computer Network Clusters](assets/preprint.pdf)
+Published as a conference paper at ACC 2024: [Optimal Control for Antivirus Routing in Epidemiological-Based Heterogeneous Computer Network Clusters](assets/preprint.pdf) [[Link]](https://ieeexplore.ieee.org/document/10644719)
 
 ### Implementation
 Single Cluster Antivirus Routing.
@@ -69,4 +69,13 @@ python src/cluster_bfgs.py
 
 ----
 ### Citation
-    To be Updated ..
+```
+@inproceedings{wang2024optimal,
+  title={Optimal Control for Antivirus Routing in Epidemiological-Based Heterogeneous Computer Network Clusters},
+  author={Wang, Shuangge and He, Zhilin and Xu, Zihao and Haskell, Cymra and Krishnamachari, Bhaskar},
+  booktitle={2024 American Control Conference (ACC)},
+  pages={4624--4630},
+  year={2024},
+  organization={IEEE}
+}
+```
